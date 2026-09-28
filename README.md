@@ -8,7 +8,10 @@ Some missing information, specifically the detailed breakdown of the different e
 
 **Data Anomaly Note:**
 During the cleaning process, it was observed that some successful students had a recorded score of "0". This occurred because the Egyptian Ministry of Education grants a "pass" status to students with valid medical (or similar) excuses. To maintain data integrity, these "0" scores for successful students were replaced with `null` values.
-
+<h3 align="center">1. General Overview & Distribution Curve</h3>
+<p align="center">
+  <img src="Screenshot%20(11).png" alt="General Distribution" width="850">
+</p>
 ---
 
 ## 📈 General Overview & Reports
